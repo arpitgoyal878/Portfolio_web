@@ -46,7 +46,7 @@ const Project = () => {
         </div>
       </section>
       <div className='mx-5'>
-        <a href='https://github.com/Deelip7' target='_blank' rel='noreferrer' className='bg-gray block shadow-lg uppercase border border-gray-500 rounded-lg text-center my-12 p-2 max-w-xs m-auto'>
+        <a href='https://github.com/arpitgoyal878' target='_blank' rel='noreferrer' className='bg-gray block shadow-lg uppercase border border-gray-500 rounded-lg text-center my-12 p-2 max-w-xs m-auto'>
           <span>See more on Github</span>
         </a>
       </div>
